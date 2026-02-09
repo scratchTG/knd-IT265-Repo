@@ -27,10 +27,10 @@
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
 -  I think checkers is better than chess cause of its more simple nature and faster games but that is entirely subjective and not an objective fact.
-  - "Does my current design support scalability? How can it improve?"
+
   
 
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  N/A
+-  Module 003 Dev Log and what assignment is attached to that
