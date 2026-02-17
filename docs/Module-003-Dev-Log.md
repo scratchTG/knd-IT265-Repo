@@ -33,4 +33,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  Module 003 Dev Log and what assignment is attached to that
+-  Module 004 Dev Log and what assignment is attached to that
