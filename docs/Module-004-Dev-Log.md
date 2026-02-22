@@ -27,4 +27,3 @@
 
 #### Next Steps
 - Module 005 and start thinking of what game I could build
--  Module 004 Dev Log and what assignment is attached to that
