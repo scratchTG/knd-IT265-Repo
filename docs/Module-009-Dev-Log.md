@@ -14,7 +14,7 @@
 - **Challenges faced**:
   - Trying to pick a good engine that I know and can get consistent help on
 - **Solutions**:
-  - Gonna stick to blender to get more help with my corrections from teh professor and cause my other peers can help me out with it.
+  - Gonna stick to blender to get more help with my corrections from the professor and so that way my other peers can help me out with it, in case I get stuck.
 
 #### Learnings
 - Getting a clue idea of what the basic format and rules that the demo will have to have to get a good grade. 
