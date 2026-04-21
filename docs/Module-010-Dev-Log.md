@@ -14,13 +14,13 @@
 - **Challenges faced**:
   - Trying to build a 2d grid in my game engine
 - **Solutions**:
-  - Try and follow a video tutorial
+  - Try and look at more tutorials and presentations to see what im getting into
 
 #### Learnings
-- Getting a clue idea of what the basic format and rules that the demo will have to have to get a good grade. 
+- How the grid for my game is supposed to look like in any engine when coding it. 
 
 #### Free Thinking
-- Trying to get some unity tutorial to understand how to build a board
+- How to make the grid work with the attacks and pieces on the board
 
 #### Next Steps
-- Module 010 and viewing what design my game should use
+- Module 011 and trying to build my demo
